@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C# Express 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CollisionDetection", "CollisionDetection\CollisionDetection.csproj", "{AF6C28CB-B8FB-40F9-B53A-7857398445DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF6C28CB-B8FB-40F9-B53A-7857398445DE}.Debug|x86.ActiveCfg = Debug|x86
+		{AF6C28CB-B8FB-40F9-B53A-7857398445DE}.Debug|x86.Build.0 = Debug|x86
+		{AF6C28CB-B8FB-40F9-B53A-7857398445DE}.Release|x86.ActiveCfg = Release|x86
+		{AF6C28CB-B8FB-40F9-B53A-7857398445DE}.Release|x86.Build.0 = Release|x86
+		{40F88939-868F-4F63-9135-B9EDA1467BE9}.Debug|x86.ActiveCfg = Debug|x86
+		{40F88939-868F-4F63-9135-B9EDA1467BE9}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
